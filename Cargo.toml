@@ -1,0 +1,11 @@
+[package]
+name = "data_structures_and_algorithms"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+
+[[bin]]
+name = "section1"
+path = "src/bin/section1/main.rs"
