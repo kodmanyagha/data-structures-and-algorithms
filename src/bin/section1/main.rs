@@ -1,3 +1,7 @@
+pub mod vid5_loop_iterator;
+
 fn main() {
-    println!("This is section 1");
+    println!("Section 1 starting");
+
+    vid5_loop_iterator::loop_iterator();
 }
